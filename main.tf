@@ -1,4 +1,4 @@
 resource "local_file" "example" {
-  filename = "example.txt"
+  filename = "shankar.txt"
   content  = "Hello, this file is created by Terraform"
 }
